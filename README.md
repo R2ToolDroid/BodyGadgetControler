@@ -1,2 +1,2 @@
-# BodyGadgetControler
-R2 Body functions under control
+# BodyGadgetController
+R2 Body functions under controller
